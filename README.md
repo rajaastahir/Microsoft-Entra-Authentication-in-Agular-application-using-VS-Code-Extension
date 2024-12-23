@@ -1,6 +1,7 @@
 # Microsoft Entra External ID Extension for Visual Studio Code
 
 Integrating authentication into consumer and business applications is essential for securing resources and data. The Microsoft Entra External ID extension for Visual Studio Code simplifies this process by enabling you to create external tenants, configure sign-in experiences, and set up sample applications directly from Visual Studio Code.
+
 ![image](https://github.com/user-attachments/assets/d9d040eb-39e5-4e45-9b42-d948b06afb30)
 
 ## Features
